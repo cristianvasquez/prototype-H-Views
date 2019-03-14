@@ -1,0 +1,15 @@
+{
+    "name": "simple-rdf-views",
+    "version": "1.0.0",
+    "description": "Provides JSON-LD Views from RDF in the Web",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Cristian Vasquez",
+    "license": "MIT",
+    "dependencies": {
+        "@comunica/actor-init-sparql": "^1.6.3",
+        "express": "^4.16.4"
+    }
+}
