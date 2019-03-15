@@ -20,6 +20,15 @@ A spec defining how a view is generated and then exposed
 
 Helps a developer to test and generate Hypermedia specs
 
+Source selection
+- Shows all preconfigured sources
+- Given a pattern, returns selected sources.
+
+Allows to define several api-patterns
+
+Can define the view, being this inference or query. 
+
+
 ## H-views controller
 
 Exposes hypermedia views and handle incoming operations
