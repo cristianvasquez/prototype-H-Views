@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a82daf6-4a3b-4c3c-9534-a1f969d41b93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/vendor/charts/c3charts/c3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/vendor/charts/c3charts/d3-5.4.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/vendor/jquery/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/assets/vendor/select2/js/select2.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/avatar-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/avatar-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/avatar-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/avatar-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/avatar-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/avatar-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/avatar-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/avatar-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/avatar-5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/avatar-5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/bitbucket.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/bitbucket.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/card-img-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/card-img-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/card-img-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/card-img-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/card-img-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/card-img-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/card-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/card-img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/down-arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/down-arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/drag-indicator.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/drag-indicator.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/dribbble.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/dribbble.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/dropbox.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/dropbox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-product-img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-product-img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-product-img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-product-img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-product-img-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-product-img-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-product-img-4.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-product-img-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-slider-img-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-slider-img-1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-slider-img-2.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-slider-img-2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/eco-slider-img-3.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/eco-slider-img-3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/error-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/error-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/loader.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/loader.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/mail_chimp.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/mail_chimp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/product-pic-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/product-pic-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/product-pic-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/product-pic-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/product-pic-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/product-pic-4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/product-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/product-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/slack.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/slack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/switch.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/images/switch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/dashboard-ecommerce.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/dashboard-ecommerce.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/dashboard-finance.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/dashboard-finance.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/dashboard-influencer.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/dashboard-influencer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/dashboard-sales.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/dashboard-sales.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/gmaps.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/gmaps.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/google_map.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/google_map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/jvectormap.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/jvectormap.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/libs/js/main-js.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/libs/js/main-js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-colorpicker/@claviska/jquery-minicolors/jquery.minicolors.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-colorpicker/jquery-asColor/dist/jquery-asColor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-colorpicker/jquery-asColor/dist/jquery-asColor.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-colorpicker/jquery-asColorPicker/dist/jquery-asColorPicker.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-colorpicker/jquery-asColorPicker/dist/jquery-asColorPicker.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-colorpicker/jquery-asGradient/dist/jquery-asGradient.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-colorpicker/jquery-asGradient/dist/jquery-asGradient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-select/css/bootstrap-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-select/css/bootstrap-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap-select/js/bootstrap-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap-select/js/bootstrap-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/bootstrap/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/c3charts/C3chartjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/c3charts/C3chartjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/c3charts/c3.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/c3charts/c3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/c3charts/c3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/c3charts/d3-5.4.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/chartist-bundle/Chartistjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/chartist-bundle/Chartistjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/chartist-bundle/chartist-plugin-threshold.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/chartist-bundle/chartist-plugin-threshold.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/chartist-bundle/chartist.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/chartist-bundle/chartist.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/chartist-bundle/chartist.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/chartist-bundle/chartist.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/charts-bundle/Chart.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/charts-bundle/Chart.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/charts-bundle/chartjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/charts-bundle/chartjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/morris-bundle/Morrisjs.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/morris-bundle/Morrisjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/morris-bundle/morris.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/morris-bundle/morris.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/morris-bundle/morris.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/morris-bundle/morris.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/morris-bundle/morrisjs.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/morris-bundle/morrisjs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/morris-bundle/raphael.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/morris-bundle/raphael.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/sparkline/jquery.sparkline.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/sparkline/jquery.sparkline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/charts/sparkline/spark-js.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/charts/sparkline/spark-js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/cropper/dist/cropper-int.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/cropper/dist/cropper-int.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/cropper/dist/cropper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/cropper/dist/cropper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/cropper/dist/cropper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/cropper/dist/cropper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/custom-js/jquery.multi-select.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/custom-js/jquery.multi-select.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/css/buttons.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/css/buttons.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/css/dataTables.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/css/fixedHeader.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/css/fixedHeader.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/css/select.bootstrap4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/css/select.bootstrap4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/js/buttons.bootstrap4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/js/buttons.bootstrap4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/js/data-table.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/js/data-table.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datatables/js/dataTables.bootstrap4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datatables/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datepicker/datepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datepicker/datepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datepicker/moment.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datepicker/moment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datepicker/tempusdominus-bootstrap-4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datepicker/tempusdominus-bootstrap-4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/datepicker/tempusdominus-bootstrap-4.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/datepicker/tempusdominus-bootstrap-4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/daterangepicker/daterangepicker.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/daterangepicker/daterangepicker.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/dropzone/dropzone.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/dropzone/dropzone.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-Black.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-Black.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-BlackItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-BoldItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-Book.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-Book.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-BookItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-Medium.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-Medium.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/CircularStd-MediumItalic.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/circular-std/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/circular-std/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flag-icon.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flag-icon.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ad.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ad.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ae.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ae.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/af.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/af.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ag.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ag.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ai.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ai.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/al.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/al.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/am.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/am.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ao.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ao.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/aq.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/aq.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/as.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/as.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/at.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/at.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/au.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/au.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/aw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/aw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ax.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ax.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/az.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/az.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ba.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ba.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bd.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bd.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/be.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/be.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bi.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bi.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bj.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bj.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bq.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bq.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/br.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/br.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bv.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/by.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/by.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/bz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/bz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ca.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ca.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cd.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cd.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ch.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ch.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ci.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ci.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ck.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ck.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/co.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/co.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cv.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cx.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cx.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/cz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/cz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/de.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/de.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/dj.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/dj.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/dk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/dk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/dm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/dm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/do.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/do.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/dz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/dz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ec.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ec.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ee.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ee.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/eg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/eg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/eh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/eh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/er.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/er.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/es.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/es.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/et.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/et.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/fi.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/fi.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/fj.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/fj.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/fk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/fk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/fm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/fm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/fo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/fo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/fr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/fr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ga.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ga.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gd.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gd.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ge.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ge.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gi.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gi.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gq.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gq.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/gy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/gy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/hk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/hk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/hm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/hm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/hn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/hn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/hr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/hr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ht.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ht.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/hu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/hu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/id.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/id.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ie.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ie.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/il.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/il.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/im.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/im.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/in.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/in.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/io.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/io.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/iq.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/iq.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ir.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ir.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/is.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/is.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/it.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/it.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/je.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/je.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/jm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/jm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/jo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/jo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/jp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/jp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ke.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ke.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ki.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ki.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/km.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/km.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ky.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ky.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/kz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/kz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/la.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/la.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/li.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/li.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ls.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ls.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/lv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/lv.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ly.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ly.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ma.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ma.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/md.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/md.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/me.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/me.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ml.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ml.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mp.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mp.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mq.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mq.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ms.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ms.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mv.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mx.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mx.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/my.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/my.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/mz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/mz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/na.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/na.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/nc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/nc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ne.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ne.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/nf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/nf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ng.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ng.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ni.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ni.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/nl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/nl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/no.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/no.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/np.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/np.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/nr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/nr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/nu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/nu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/nz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/nz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/om.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/om.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pa.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pa.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pe.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pe.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ph.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ph.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ps.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ps.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/pw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/pw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/py.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/py.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/qa.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/qa.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/re.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/re.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ro.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ro.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/rs.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/rs.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ru.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ru.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/rw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/rw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sa.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sa.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sb.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sb.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sd.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sd.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/se.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/se.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sh.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sh.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/si.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/si.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sj.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sj.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/so.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/so.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ss.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ss.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/st.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/st.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sv.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sx.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sx.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/sz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/sz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/td.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/td.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/th.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/th.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tj.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tj.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tk.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tk.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/to.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/to.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tr.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tr.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tv.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tv.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/tz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/tz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ua.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ua.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ug.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ug.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/um.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/um.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/us.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/us.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/uy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/uy.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/uz.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/uz.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/va.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/va.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/vc.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/vc.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ve.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ve.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/vg.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/vg.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/vi.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/vi.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/vn.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/vn.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/vu.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/vu.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/wf.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/wf.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ws.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ws.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/ye.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/ye.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/yt.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/yt.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/za.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/za.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/zm.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/zm.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/flag-icon-css/flags/zw.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/flag-icon-css/flags/zw.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/css/fontawesome-all.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/css/fontawesome-all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400d41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-brands-400d41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400d41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-regular-400d41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900d41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/fontawesome/webfonts/fa-solid-900d41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/css/materialdesignicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/material-design-iconic-font/fonts/materialdesignicons-webfontdc99.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/css/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/css/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Icons4c82.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/themify-icons/fonts/themify.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/themify-icons/fonts/themify.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/themify-icons/fonts/themify.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/themify-icons/fonts/themify.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/themify-icons/fonts/themify9f24.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/themify-icons/fonts/themify9f24.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/themify-icons/fonts/themify9f24.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/themify-icons/fonts/themify9f24.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/themify-icons/fonts/themifyd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/themify-icons/fonts/themifyd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/themify-icons/themify-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/themify-icons/themify-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/weather-icons/css/weather-icons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/weather-icons/css/weather-icons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/fonts/weather-icons/fonts/weathericons-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/fonts/weather-icons/fonts/weathericons-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/full-calendar/css/fullcalendar.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/full-calendar/css/fullcalendar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/full-calendar/css/fullcalendar.print.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/full-calendar/css/fullcalendar.print.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/full-calendar/js/calendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/full-calendar/js/calendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/full-calendar/js/fullcalendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/full-calendar/js/fullcalendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/full-calendar/js/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/full-calendar/js/jquery-ui.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/full-calendar/js/moment.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/full-calendar/js/moment.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/gauge/gauge.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/gauge/gauge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/gauge/gauge.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/gauge/gauge.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/inputmask/css/inputmask.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/inputmask/css/inputmask.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/inputmask/js/jquery.inputmask.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/inputmask/js/jquery.inputmask.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jquery/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-2.0.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-2.0.2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-2.0.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-2.0.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-au-mill.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-au-mill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-in-mill.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-in-mill.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-uk-mill-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-uk-mill-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-us-aea-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-us-aea-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/jvectormap/jquery-jvectormap-world-mill-en.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/jvectormap/jquery-jvectormap-world-mill-en.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/multi-select/css/multi-select.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/multi-select/css/multi-select.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/multi-select/js/jquery.multi-select.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/multi-select/js/jquery.multi-select.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/parsley/parsley.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/parsley/parsley.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/select2/css/select2.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/select2/css/select2.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/select2/js/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/shortable-nestable/Sortable.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/shortable-nestable/Sortable.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/shortable-nestable/jquery.nestable.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/shortable-nestable/jquery.nestable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/shortable-nestable/sort-nest.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/shortable-nestable/sort-nest.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/slimscroll/jquery.slimscroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/slimscroll/jquery.slimscroll.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/summernote/css/summernote-bs4.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/summernote/css/summernote-bs4.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/summernote/editor-fonts/summernote4c4d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/summernote/editor-fonts/summernote4c4d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/summernote/editor-fonts/summernote4c4d.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/summernote/editor-fonts/summernote4c4d.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/summernote/editor-fonts/summernote4c4d.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/summernote/editor-fonts/summernote4c4d.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/summernote/editor-fonts/summernoted41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/summernote/editor-fonts/summernoted41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/summernote/js/summernote-bs4.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/summernote/js/summernote-bs4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/timeline/img/cd-icon-location.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/timeline/img/cd-icon-location.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/timeline/img/cd-icon-movie.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/timeline/img/cd-icon-movie.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/timeline/img/cd-icon-picture.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/timeline/img/cd-icon-picture.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/timeline/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/timeline/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/vendor/vector-map/jqvmap.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/vendor/vector-map/jqvmap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="565">
+              <caret line="186" column="27" selection-start-line="186" selection-start-column="27" selection-end-line="186" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index.css</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/logo/index.tsx" />
+        <option value="$PROJECT_DIR$/src/main.tsx" />
+        <option value="$PROJECT_DIR$/readme.old.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/index.css" />
+        <option value="$PROJECT_DIR$/static/manifest.json" />
+        <option value="$PROJECT_DIR$/rollup.config.js" />
+        <option value="$PROJECT_DIR$/static/main.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/static/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+        <option value="$PROJECT_DIR$/.idea/H-Views.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
+        <option value="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="983" />
+    <option name="y" value="242" />
+    <option name="width" value="1392" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="H-Views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H-Views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H-Views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H-Views" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H-Views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H-Views" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a82daf6-4a3b-4c3c-9534-a1f969d41b93" name="Default Changelist" comment="" />
+      <created>1553612081726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553612081726</updated>
+      <workItem from="1553612082910" duration="931000" />
+      <workItem from="1553692401162" duration="2733000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3664000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="106" y="-7" width="2774" height="1627" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23391813" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298898" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.28168043" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/logo/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/counter/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/styles/style.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/types.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.old.html" />
+    <entry file="file://$PROJECT_DIR$/static/assets/images/down-arrow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="625">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/app.spec.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hyperapp.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="457">
+            <caret line="25" selection-start-line="25" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rollup.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/rollup/dist/rollup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="10325" column="40" lean-forward="true" selection-start-line="10325" selection-start-column="40" selection-end-line="10325" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" selection-start-line="20" selection-end-line="229" selection-end-column="7" />
+          <folding>
+            <element signature="n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.postcssrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.browserslistrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="565">
+          <caret line="186" column="27" selection-start-line="186" selection-start-column="27" selection-end-line="186" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+{
+  "short_name": "H-Views",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "theme_color": "white",
+  "background_color": "white",
+  "orientation": "portrait",
+  "dir": "ltr",
+  "lang": "en"
+}
