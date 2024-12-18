@@ -2,7 +2,7 @@
 
 Abandoned prototype.
 
-![img.png](img.png)
+<img src="img.png" alt="Smaller Image" width="150" />
 
 Add hypermedia views to your app through agents, in a simple way.
 
