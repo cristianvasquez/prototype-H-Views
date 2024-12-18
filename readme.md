@@ -1,6 +1,10 @@
 # Hypermedia views
 
-Add hypermedia views to your app, in a simple way.
+Abandoned prototype.
+
+![img.png](img.png)
+
+Add hypermedia views to your app through agents, in a simple way.
 
 # Implementation plan
 
